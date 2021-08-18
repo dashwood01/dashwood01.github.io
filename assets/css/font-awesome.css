@@ -560,6 +560,9 @@
 .fa-facebook-square:before {
   content: "\f082";
 }
+.fa-instagram-square:before {
+  content: "\f16d";
+}
 .fa-camera-retro:before {
   content: "\f083";
 }
