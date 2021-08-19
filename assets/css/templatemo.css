@@ -666,13 +666,13 @@ welcome
 .welcome-area .header-text .left-text {
   position: relative;
   align-self: center;
-  margin-top: 35%;
+  margin-top: 28%;
   transform: perspective(1px) translateY(-30%) !important;
 }
 
 .welcome-area .header-text h1 {
   font-weight: 900;
-  font-size: 52px;
+  font-size: 40px;
   line-height: 80px;
   letter-spacing: 1px;
   margin-bottom: 30px;
@@ -1403,3 +1403,6 @@ preloader
     opacity: 0;
   }
 }
+/*
+  custom
+  */
